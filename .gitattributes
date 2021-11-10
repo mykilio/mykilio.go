@@ -1,0 +1,8 @@
+# Enforce linux style line endings.
+* text eol=lf
+# Mark pictures as binary files.
+*.ico -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.webp -text
