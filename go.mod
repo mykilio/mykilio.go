@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/cloudevents/sdk-go/v2 v2.7.0
-	github.com/gofiber/fiber/v2 v2.23.0
+	github.com/gofiber/fiber/v2 v2.24.0
 	github.com/gofiber/helmet/v2 v2.2.5
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0
