@@ -11,7 +11,8 @@ require (
 	github.com/joho/godotenv v1.4.0
 	github.com/nats-io/nats-server/v2 v2.6.4 // indirect
 	github.com/nats-io/nats.go v1.13.1-0.20211018182449-f2416a8b1483
-	github.com/rs/zerolog v1.26.1
+	github.com/rs/zerolog v1.27.0
 	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 )
