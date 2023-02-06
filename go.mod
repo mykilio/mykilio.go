@@ -8,7 +8,7 @@ require (
 	github.com/gofiber/helmet/v2 v2.2.14
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0
-	github.com/joho/godotenv v1.4.0
+	github.com/joho/godotenv v1.5.1
 	github.com/nats-io/nats-server/v2 v2.6.4 // indirect
 	github.com/nats-io/nats.go v1.13.1-0.20211018182449-f2416a8b1483
 	github.com/rs/zerolog v1.26.1
